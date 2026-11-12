@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DigitalPro//Promocion Erick//ES
+BEGIN:VEVENT
+UID:erick-promocion-20261211@digitalpro
+DTSTAMP:20261111T180000Z
+DTSTART:20261211T190000Z
+SUMMARY:Promoción de Erick Maycol Tarqui Choque
+LOCATION:U. E. Técnico Humanístico Venjanmin
+DESCRIPTION:Acto de promoción a las 15:00. Después celebraremos en el domicilio.
+URL:https://maps.app.goo.gl/L7RtT831KYS4Qnkd9
+END:VEVENT
+END:VCALENDAR
